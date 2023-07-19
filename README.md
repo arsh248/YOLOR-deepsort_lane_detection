@@ -4,3 +4,12 @@ YOLO processes images in a single forward pass through a neural network and dire
 
 
 After executing the file follow the steps:
+
+# 1) Select the area
+   ![image](https://github.com/arsh248/YOLOR-deepsort_lane_detection/assets/62460837/954bcf55-7936-4875-8526-5ee1c87abc92)
+   ![image](https://github.com/arsh248/YOLOR-deepsort_lane_detection/assets/62460837/a6e06009-7568-48ca-92da-3835f19c089b)
+
+
+# 2) Press Enter and output appears on the new window
+
+![image](https://github.com/arsh248/YOLOR-deepsort_lane_detection/assets/62460837/23cea018-6386-4d7f-bdec-346713247f40)
